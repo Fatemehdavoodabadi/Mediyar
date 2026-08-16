@@ -1,0 +1,6 @@
+{
+  "name": "مدیار",
+  "description": "سامانه جامع مدیریت و نظارت دارویی مدیار - پنل عملیات و کارشناسی داودآبادی و نظارت ارشد کریمی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
